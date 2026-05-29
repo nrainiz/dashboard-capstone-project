@@ -147,12 +147,12 @@ if halaman == "📋 Overview & Data Dictionary":
         st.markdown("""
         | No | Nama Dataset | Link | Lisensi | 
         |---|---|---|---|
-        | 1 | Rice Leaf Disease Dataset | [Kaggle](https://www.kaggle.com/datasets/soni535/rice-leaf-bacterial-and-fungal-disease) | Unknown |
-        | 2 | Rice Leaf Diseases Dataset | [Kaggle](https://www.kaggle.com/datasets/raihan150146/rice-leaf-diseases-dataset) | [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
-        | 3 | Zambali Rice Dataset (Public V1) | [Kaggle](https://www.kaggle.com/datasets/gettingintoml/zambali-rice-dataset-v3-1) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-        | 4 | Rice Disease Dataset | [Kaggle](https://www.kaggle.com/datasets/anshulm257/rice-disease-dataset) | Unknown |
-        | 5 | Rice Leaf Disease Detection Dataset | [Kaggle](https://www.kaggle.com/datasets/sham69/rice-leaf-disease-detection-dataset) | [MIT](https://www.mit.edu/~amini/LICENSE.md)
-        | 6 | DatasetOfLeafDiseasesAndPestsOfAgriculturalPlants | [Kaggle](https://www.kaggle.com/datasets/dellcat/datasetofleafdiseasesandpestsofagriculturalplants) | [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)         
+        | 1 | DatasetOfLeafDiseasesAndPestsOfAgriculturalPlants | [Kaggle](https://www.kaggle.com/datasets/dellcat/datasetofleafdiseasesandpestsofagriculturalplants) | [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+        | 2 | Rice Disease Dataset | [Kaggle](https://www.kaggle.com/datasets/anshulm257/rice-disease-dataset) | Unknown |
+        | 3 | Rice Leaf Disease Dataset | [Kaggle](https://www.kaggle.com/datasets/soni535/rice-leaf-bacterial-and-fungal-disease) | Unknown |
+        | 4 | Rice Leaf Disease Detection Dataset | [Kaggle](https://www.kaggle.com/datasets/sham69/rice-leaf-disease-detection-dataset) | [MIT](https://www.mit.edu/~amini/LICENSE.md)
+        | 5 | Rice Leaf Diseases Dataset | [Kaggle](https://www.kaggle.com/datasets/raihan150146/rice-leaf-diseases-dataset) | [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+        | 6 | Zambali Rice Dataset (Public V1) | [Kaggle](https://www.kaggle.com/datasets/gettingintoml/zambali-rice-dataset-v3-1) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)     
                     """)
 
     st.divider()

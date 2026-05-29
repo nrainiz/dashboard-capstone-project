@@ -137,7 +137,7 @@ with st.sidebar:
 if halaman == "📋 Overview & Data Dictionary":
     st.subheader("📋 Project Overview")
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Kelas", "5")
+    col1.metric("Kelas", "4")
     col2.metric("Train Data", sum(data_train_after.values()))
     col3.metric("Test Data",  sum(data_test_before.values()))
     col4.metric("Total Gambar", sum(data_train_after.values()) + sum(data_test_before.values()))
